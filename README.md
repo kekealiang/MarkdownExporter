@@ -1,0 +1,2 @@
+# MarkdownExporter
+Typecho插件，可以单个输出.md或是多选输出压缩包格式并下载，用于从Typecho导入到支持Markdown的博客中。
